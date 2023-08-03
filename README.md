@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IME-University App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
