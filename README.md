@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushwaha-pankaj](https://github.com/kushwaha-pankaj)
 
-- 📝 I regularly write articles on [www.pankajkushwaha.com.np](www.kushwahapankaj.com)
+- 📝 I regularly write articles on [www.kushwahapankaj.com](www.kushwahapankaj.com)
 
 - 💬 Ask me about **Python, Django, React, Entrepreneurship, Business**
 
 - 📫 How to reach me **kushwahapankaj1916@gmail.com**
 
-- 📄 Know about my experiences [www.pankajkushwaha.com.np](www.kushwahapankaj.com)
+- 📄 Know about my experiences [www.kushwahapankaj.com](www.kushwahapankaj.com)
 
 - ⚡ Fun fact **I think I can make you smile.**
 
